@@ -1,2 +1,2 @@
 # surfsideGEE
-Google Earth Engine scripts for mapping coastal environment
+Google Earth Engine scripts for mapping island coastal environment
